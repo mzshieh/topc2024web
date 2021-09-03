@@ -1,26 +1,14 @@
-## Latest News
-
-+ [最終排名](/image/2020_TOPC_standings.png)
-  [Final standings](/image/2020_TOPC_standings.png)
-
-+ 本次競賽題組(含測試資料與判定程式)與參考程式碼可在[此處下載](https://drive.google.com/drive/folders/1q9I8o1v_HEY_-rzy_boflOL_jNx7ODF9?usp=sharing)。
-  The problem archives and sample codes can be found [here](https://drive.google.com/drive/folders/1q9I8o1v_HEY_-rzy_boflOL_jNx7ODF9?usp=sharing).
-  
-+ [競賽事故彙整與提問回覆說明](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/HJ9FBYh8D)
-
-+ [中文簡易題解](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rJQQlyJDP)
-
 ## Overview
 
 1. **日期 Date** <br>
-   2020 年 10 月 7 日 星期三 <br>
-   Wednesday, October 7, 2020
+   2021 年 10 月 23 日 星期六 <br>
+   Saturday, October 23, 2021
 2. **地點 Place** <br>
-   線上：[https://j.topc2020.icpc.tw/](https://j.topc2020.icpc.tw/) <br>
-   Online: [https://j.topc2020.icpc.tw/](https://j.topc2020.icpc.tw/)
+   線上
+   Online
 3. **競賽時間 Contest Time** <br>
-   晚上六點至九點 (三小時) <br>
-   From 6:00 PM to 9:00 PM (3 hours)
+   早上九點至十二點 (三小時) <br>
+   From 9:00 AM to 12:00 Noon (3 hours)
 4. **題組 Problem Set** <br>
    總題數至少七題，所有題目均為英文，三分之一可由 Python 3 解出。
    賽後將提供中文題解資料。<br>
@@ -30,20 +18,20 @@
    We will provide solution sketches for every problem in Mandarin.
 5. **報名 Registration** <br>
    請使用 ICPC 官方網頁註冊：<br>
-   [https://icpc.baylor.edu/regionals/finder/Taiwan-Online-2020](https://icpc.baylor.edu/regionals/finder/Taiwan-Online-2020)
+   [https://icpc.global/regionals/finder/Taiwan-Online-2021](https://icpc.baylor.edu/regionals/finder/Taiwan-Online-2021)
    <br>
    Please visit the official website of the ICPC:<br>
-   [https://icpc.baylor.edu/regionals/finder/Taiwan-Online-2020](https://icpc.baylor.edu/regionals/finder/Taiwan-Online-2020)
+   [https://icpc.global/regionals/finder/Taiwan-Online-2021](https://icpc.baylor.edu/regionals/finder/Taiwan-Online-2021)
 6. **報名期限 Registration Deadline**<br>
-   2020 年 10 月 3 日 星期六
-   Sunday, October 3, 2020
+   2021 年 10 月 17 日 星期日
+   Sunday, October 17, 2021
 
 ## Eligibility
 
 + **基本資格規範 Basic Eligibility Rules** <br>
-  請參照 ICPC [官方規範(連結)](https://icpc.global/xwiki/wiki/public/download/regionals/rules/EligibilityDecisionTree-2020.pdf)。<br>
+  請參照 ICPC [官方規範(連結)](https://drive.google.com/file/d/1E9yaQbpSu9059UrOYafAiNrH-ABgRDAW/view?usp=sharing)。<br>
   The eligibility rules are contained in the official regional 
-  [rules](https://icpc.global/xwiki/wiki/public/download/regionals/rules/EligibilityDecisionTree-2020.pdf) on the ICPC website.
+  [rules](https://drive.google.com/file/d/1E9yaQbpSu9059UrOYafAiNrH-ABgRDAW/view?usp=sharing) on the ICPC website.
 
 + **隊伍組成 Team Composition** <br>
 每隊由一名教練、三名參賽隊員、至多一名候補隊員組成。
@@ -124,51 +112,23 @@ solution.
 ## Important Dates
 
 + **註冊截止日期：**<br>
-2020 年 10 月 3 日<br>
-End of registration: October 3, 2020
+2021 年 10 月 17 日<br>
+End of registration: October 17, 2021
 + **寄發隊伍帳號密碼：**<br>
-2020 年 10 月 5 日寄發給教練<br>
-Team account information will be delivered to the coach by October 5, 2020.
+2021 年 10 月 21 日寄發給教練<br>
+Team account information will be delivered to the coach by October 21, 2021.
 
 + **測試時間：**<br>
-2020 年 10 月 6 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
-Tentative practice session: 12:30-23:30 on October 6, 2020 (GMT+8)
+2021 年 10 月 22 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
+Tentative practice session: 12:30-23:30 on October 22, 2021 (GMT+8)
 
 + **競賽時間：**<br>
-2020 年 10 月 7 日 晚間下午六點至九點 (台灣時間)<br>
-Contest time: 18:00-21:00 on October 7, 2020 (GMT+8)
+2021 年 10 月 23 日 上午九點至中午十二點 (台灣時間)<br>
+Contest time: 9:00-12:00 on October 23, 2021 (GMT+8)
 
 ## Judge Environment
 
-+ **Judge System**<br>
-DOMjudge 7.3.0
-
-+ **Hardware for Judgehost**<br>
-Google Cloud Platform
-1 vCPU
-2GB RAM
-20GB HDD
-
-+ **OS**<br>
-Linux 
-
-+ **Distribution**<br>
-Ubuntu 20.04
-
-+ **Compilers / Interpreters**
-    + C/C++: GNU Compiler Collections 9.3.0
-    + Java: OpenJDK 11.0.8
-    + Kotlin: 1.4.0 (on OpenJDK JRE 11.0.8)
-    + Python 3: 3.8.2 (CPython)
-    + Python 2: 2.7 (PyPy 7.3.1)
-
-+ **Options for Compiler or Run-time Environment**
-    + C++: `g++ -std=c++17 -x c++ -Wall -O2 -static -pipe`
-    + C: `gcc -std=c18 -x c -Wall -O2 -static -pipe YOUR_SOURCE_CODE.c -lm`
-    + Java (compile): `javac -encoding UTF-8` 
-    + Java (run): `java -Dfile.encoding=UTF-8 -XX:+UseSerialGC`
-    + Kotlin (compile): `kotlinc`
-    + Kotlin (run): `kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialG`
+TBD
 
 ## Contact
-Contest Managers: topc2020@icpc.tw
+Contest Managers: topc2021@icpc.tw
