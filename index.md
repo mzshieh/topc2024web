@@ -131,4 +131,4 @@ Contest time: 9:00-12:00 on October 23, 2021 (GMT+8)
 TBD
 
 ## Contact
-Contest Managers: topc2021@icpc.tw
+Contest Managers: mzshieh@icpc.tw
