@@ -128,7 +128,20 @@ Contest time: 9:00-12:00 on October 23, 2021 (GMT+8)
 
 ## Judge Environment
 
-TBD
+Hardware: AWS t2.small instance
+OS: Ubuntu 20.04
+Compiler/Runtime Environment/Interpreter:
++ C: gcc 9.3.0
++ C++: g++ 9.3.0
++ Java: OpenJDK 14.0.2 (JRE & JDK)
++ Python: 3.8.10
++ Kotlin: 1.5.21 on JRE 14.0.2
+
+Flags:
++ C: `gcc -x c -Wall -O2 -static -pipe -o "$DEST" "$@" -lm`
++ C++: `g++ -x c++ -Wall -std=c++17 -O2 -static -pipe -o "$DEST" "$@"`
++ Java: `java -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss${MEMSTACK}k -Xms${MEMLIMITJAVA}k -Xmx${MEMLIMITJAVA}k '$MAINCLASS' "\$@"`
++ Kotlin: `exec kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialGC -J-Xss${MEMSTACK}k -J-Xms${MEMLIMITJAVA}k -J-Xmx${MEMLIMITJAVA}k '$MAINCLASS' "\$@"`
 
 ## Contact
 Contest Managers: mzshieh@icpc.tw
