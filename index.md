@@ -144,8 +144,8 @@ Ubuntu 20.04
 ### Flags
 + C: `gcc -x c -Wall -O2 -static -pipe -o "$DEST" "$@" -lm`
 + C++: `g++ -x c++ -Wall -std=c++17 -O2 -static -pipe -o "$DEST" "$@"`
-+ Java: `java -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss${MEMSTACK}k -Xms${MEMLIMITJAVA}k -Xmx${MEMLIMITJAVA}k '$MAINCLASS' "\$@"`
-+ Kotlin: `exec kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialGC -J-Xss${MEMSTACK}k -J-Xms${MEMLIMITJAVA}k -J-Xmx${MEMLIMITJAVA}k '$MAINCLASS' "\$@"`
++ Java: `java -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss${MEMSTACK}k -Xms${MEMLIMITJAVA}k -Xmx${MEMLIMITJAVA}k '$MAINCLASS' "$@"`
++ Kotlin: `kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialGC -J-Xss${MEMSTACK}k -J-Xms${MEMLIMITJAVA}k -J-Xmx${MEMLIMITJAVA}k '$MAINCLASS' "$@"`
 
 ## Contact
 Contest Managers: mzshieh@icpc.tw
