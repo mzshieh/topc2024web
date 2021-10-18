@@ -147,5 +147,13 @@ Ubuntu 20.04
 + Java: `java -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss${MEMSTACK}k -Xms${MEMLIMITJAVA}k -Xmx${MEMLIMITJAVA}k '$MAINCLASS' "$@"`
 + Kotlin: `kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialGC -J-Xss${MEMSTACK}k -J-Xms${MEMLIMITJAVA}k -J-Xmx${MEMLIMITJAVA}k '$MAINCLASS' "$@"`
 
+### Lazy Evaluation
+
+The result of a rejected submission is the first encountered error. We do **not** prioritize `timelimit`, `run-error`, `memory-limit`, `output-limit` and `no-output`. 
+
+### Penalty
+
+There is no penalty on compilation errors.
+
 ## Contact
 Contest Managers: mzshieh@icpc.tw
