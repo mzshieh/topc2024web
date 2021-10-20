@@ -1,3 +1,16 @@
+## Latest News
+
+### Account Information Delivered
+帳號密碼資訊已經寄發給隊伍成員。
+
+Team account information is delivered to all team members.
+
+### Practice Session (Schedule Updated)
+
+2021 年 10 月 20 日 下午六點至 22 日 下午十一點三十分
+
+From 18:30 on Octobor 20 to 23:30 on October 22, 2021 (GMT+8)<br>
+
 ## Overview
 
 1. **日期 Date** <br>
@@ -115,12 +128,14 @@ solution.
 2021 年 10 月 17 日<br>
 End of registration: October 17, 2021
 + **寄發隊伍帳號密碼：**<br>
-2021 年 10 月 21 日寄發給教練<br>
-Team account information will be delivered to the coach by October 21, 2021.
+2021 年 10 月 ~~21~~ 20 日寄發給教練<br>
+Team account information will be delivered to the coach by October ~~21~~ 20, 2021.
 
 + **測試時間：**<br>
-2021 年 10 月 22 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
-Tentative practice session: 12:30-23:30 on October 22, 2021 (GMT+8)
+~~2021 年 10 月 22 日 下午十二點三十分至十一點三十分 (台灣時間)~~<br>
+~~Tentative practice session: 12:30-23:30 on October 22, 2021 (GMT+8)~~<br>
+2021 年 10 月 20 日 下午六點至 2021 年 10 月 22 日十一點三十分 (台灣時間)<br>
+Practice session: From 18:30 on Octobor 20 to 23:30 on October 22, 2021 (GMT+8)<br>
 
 + **競賽時間：**<br>
 2021 年 10 月 23 日 上午九點至中午十二點 (台灣時間)<br>
