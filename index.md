@@ -1,5 +1,10 @@
 ## Latest News
 
+### Final standings
+[最終排名](/image/2021_TOPC_standings.png)
+[Final standings](/image/2021_TOPC_standings.png)
+
+
 ### Account Information Delivered
 帳號密碼資訊已經寄發給隊伍成員。
 
