@@ -4,12 +4,12 @@
 
 + [題目敘述 (賽中版)](/problemset/TOPC2021.pdf)
 + [題目敘述 (錯字修正後版本)](/problemset/TOPC2021-fixed.pdf)
-+ [測試資料](/testdata/testdata.zip)
-+ [範例解答](/sample_solution/sample_solution.zip)
++ [測試資料](/problemset/testdata/testdata.zip)
++ [範例解答](/problemset/sample_solution/sample_solution.zip)
 + [Description (Contest Version)](/problemset/TOPC2021.pdf)
 + [Description (Typo Fixed Version)](/problemset/TOPC2021-fixed.pdf)
-+ [Test cases](/testdata/testdata.zip)
-+ [Sample solutions](/sample_solution/sample_solution.zip)
++ [Test cases](/problemset/testdata/testdata.zip)
++ [Sample solutions](/problemset/sample_solution/sample_solution.zip)
 
 ### Final standings
 [最終排名](/image/2021_TOPC_standings.png)
