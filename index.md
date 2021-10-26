@@ -6,6 +6,7 @@
 + [題目敘述 (錯字修正後版本)](/problemset/TOPC2021-fixed.pdf)
 + [測試資料](/problemset/testdata/testdata.zip)
 + [範例解答](/problemset/sample_solution/sample_solution.zip)
++ [簡易題解](https://hackmd.io/@rTbBGGVYR3e0Ee1fJry9fg/r15T-itMF)
 + [Description (Contest Version)](/problemset/TOPC2021.pdf)
 + [Description (Typo Fixed Version)](/problemset/TOPC2021-fixed.pdf)
 + [Test cases](/problemset/testdata/testdata.zip)
