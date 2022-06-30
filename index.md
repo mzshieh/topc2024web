@@ -1,43 +1,7 @@
-## Latest News
-
-### Judging issues
-
-本次競賽總共有兩次重判 (rejudge) ，細節請參考[這裡](rejudge)。
-
-There were two rejudges in the contest. See [this page](rejudge) for detail.
-
-### Problemset
-
-+ [題目敘述 (賽中版)](/problemset/TOPC2021.pdf)
-+ [題目敘述 (錯字修正後版本)](/problemset/TOPC2021-fixed.pdf)
-+ [測試資料](/problemset/testdata/testdata.zip)
-+ [範例解答](/problemset/sample_solution/sample_solution.zip)
-+ [簡易題解](https://hackmd.io/@rTbBGGVYR3e0Ee1fJry9fg/r15T-itMF)
-+ [Description (Contest Version)](/problemset/TOPC2021.pdf)
-+ [Description (Typo Fixed Version)](/problemset/TOPC2021-fixed.pdf)
-+ [Test cases](/problemset/testdata/testdata.zip)
-+ [Sample solutions](/problemset/sample_solution/sample_solution.zip)
-
-### Final standings
-[最終排名](/image/2021_TOPC_standings.png)
-[Final standings](/image/2021_TOPC_standings.png)
-
-
-### Account Information Delivered
-帳號密碼資訊已經寄發給隊伍成員。
-
-Team account information is delivered to all team members.
-
-### Practice Session (Schedule Updated)
-
-2021 年 10 月 20 日 下午六點至 22 日 下午十一點三十分
-
-From 18:30 on Octobor 20 to 23:30 on October 22, 2021 (GMT+8)<br>
-
 ## Overview
 
 1. **日期 Date** <br>
-   2021 年 10 月 23 日 星期六 <br>
+   2022 年 10 月 23 日 星期六 <br>
    Saturday, October 23, 2021
 2. **地點 Place** <br>
    線上
