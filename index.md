@@ -29,9 +29,9 @@
 ## Eligibility
 
 + **基本資格規範 Basic Eligibility Rules** <br>
-  請參照 ICPC [官方規範(連結)](https://drive.google.com/file/d/1E9yaQbpSu9059UrOYafAiNrH-ABgRDAW/view?usp=sharing)。<br>
+  請參照 ICPC [官方規範(連結)](https://icpc.global/regionals/rules) 中關於 Basic Eligibility Requirement 一節。<br>
   The eligibility rules are contained in the official regional 
-  [rules](https://drive.google.com/file/d/1E9yaQbpSu9059UrOYafAiNrH-ABgRDAW/view?usp=sharing) on the ICPC website.
+  [rules](https://icpc.global/regionals/rules) on the ICPC website. See "Basic Eligibility Requirement section. 
 
 + **隊伍組成 Team Composition** <br>
 每隊由一名教練、三名參賽隊員、至多一名候補隊員組成。
