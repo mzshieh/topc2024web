@@ -15,7 +15,7 @@
    There will be at least 7 problems to be solved. 
    The description of each problem will be available in English. 
    At least one third of them are solvable in Python 3. 
-   We will provide solution sketches for every problem in Mandarin.
+   For each problem, we will provide solution sketches in Traditional Chinese.
 5. **報名 Registration** <br>
    請使用 ICPC 官方網頁註冊：<br>
    [https://icpc.global/regionals/finder/Taiwan-Online-2022](https://icpc.global/regionals/finder/Taiwan-Online-2022)
@@ -38,7 +38,7 @@
 教練為參賽學校之教職員，並獲學校授權，必須負責證實參賽隊員資格，
 並負責與主辦方聯繫。參賽隊員與候補隊員需要滿足 ICPC 官方規範，
 不可擔任教練。<br>
-A team must have a coach, three contestants and at most one reserved 
+Each team must have a coach, three contestants and at most one reserved 
 team member. The coach must be authorized to represent the school. 
 The coach certifies the eligibilities of the contestants and 
 is the official point-of-contact. All contestants and reserved team 
@@ -81,7 +81,7 @@ and checking the scoreboard. Any other type of internet access is prohibited.
 每個隊伍僅可使用一台電腦撰寫程式與上傳程式碼。
 於競賽期間除使用印表機列印題目與程式碼以及透過額外的螢幕閱讀題目之外，
 不得使用任何其他電子裝置。<br>
-A team shall not simultaneously use more than one computer to write programs 
+Each team shall not simultaneously use more than one computer to write programs 
 during the contest. Contestant shall not use any other type of electronic 
 devices, except extra monitors and printers.
 5. **禁止惡意行為 No malicious actions**<br>
