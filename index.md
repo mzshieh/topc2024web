@@ -141,7 +141,7 @@ Ubuntu 20.04 or later
 + Python: 3.8.10 or later
 + Kotlin: 1.5.21 on JRE 14.0.2 or later
 
-### Flags
+### Flags (Tentative)
 + C: `gcc -x c -Wall -O2 -static -pipe -o "$DEST" "$@" -lm`
 + C++: `g++ -x c++ -Wall -std=c++17 -O2 -static -pipe -o "$DEST" "$@"`
 + Java: `java -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss${MEMSTACK}k -Xms${MEMLIMITJAVA}k -Xmx${MEMLIMITJAVA}k '$MAINCLASS' "$@"`
