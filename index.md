@@ -116,7 +116,7 @@ solution.
 End of registration: October 16, 2022
 + **寄發隊伍帳號密碼：**<br>
 2022 年 10 月 20 日寄發給教練<br>
-Team account information will be delivered to the coach by October 20, 2021.
+Team account information will be delivered to the coach by October 20, 2022.
 
 + **測試時間：**<br>
 2022 年 10 月 21 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
