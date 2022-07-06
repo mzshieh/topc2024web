@@ -1,8 +1,8 @@
 ## Overview
 
 1. **日期 Date** <br>
-   2022 年 10 月 23 日 星期六 <br>
-   Saturday, October 23, 2021
+   2022 年 10 月 22 日 星期六 <br>
+   Saturday, October 22, 2022
 2. **地點 Place** <br>
    線上
    Online
@@ -112,21 +112,19 @@ solution.
 ## Important Dates
 
 + **註冊截止日期：**<br>
-2021 年 10 月 17 日<br>
-End of registration: October 17, 2021
+2022 年 10 月 16 日<br>
+End of registration: October 16, 2022
 + **寄發隊伍帳號密碼：**<br>
-2021 年 10 月 ~~21~~ 20 日寄發給教練<br>
-Team account information will be delivered to the coach by October ~~21~~ 20, 2021.
+2022 年 10 月 20 日寄發給教練<br>
+Team account information will be delivered to the coach by October 20, 2021.
 
 + **測試時間：**<br>
-~~2021 年 10 月 22 日 下午十二點三十分至十一點三十分 (台灣時間)~~<br>
-~~Tentative practice session: 12:30-23:30 on October 22, 2021 (GMT+8)~~<br>
-2021 年 10 月 20 日 下午六點至 2021 年 10 月 22 日十一點三十分 (台灣時間)<br>
-Practice session: From 18:30 on Octobor 20 to 23:30 on October 22, 2021 (GMT+8)<br>
+2022 年 10 月 21 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
+Tentative practice session: 12:30-23:30 on October 21, 2022 (GMT+8)<br>
 
 + **競賽時間：**<br>
-2021 年 10 月 23 日 上午九點至中午十二點 (台灣時間)<br>
-Contest time: 9:00-12:00 on October 23, 2021 (GMT+8)
+2022 年 10 月 22 日 上午九點至中午十二點 (台灣時間)<br>
+Contest time: 9:00-12:00 on October 22, 2022 (GMT+8)
 
 ## Judge Environment
 
@@ -134,14 +132,14 @@ Contest time: 9:00-12:00 on October 23, 2021 (GMT+8)
 AWS t2.small instance
 
 ### OS
-Ubuntu 20.04
+Ubuntu 20.04 or later
 
 ### Compiler/Runtime Environment/Interpreter
-+ C: gcc 9.3.0
-+ C++: g++ 9.3.0
-+ Java: OpenJDK 14.0.2 (JRE & JDK)
-+ Python: 3.8.10
-+ Kotlin: 1.5.21 on JRE 14.0.2
++ C: gcc 9.3.0 or later
++ C++: g++ 9.3.0 or later
++ Java: OpenJDK 14.0.2 (JRE & JDK) or later
++ Python: 3.8.10 or later
++ Kotlin: 1.5.21 on JRE 14.0.2 or later
 
 ### Flags
 + C: `gcc -x c -Wall -O2 -static -pipe -o "$DEST" "$@" -lm`
