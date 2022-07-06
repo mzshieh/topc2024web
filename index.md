@@ -69,12 +69,12 @@ dictionaries, printed notes, etc., are allowed.
 2. **僅與隊友接觸 Only contact teammates**<br>
 在比賽過程中，參賽者只能與隊友討論。
 競賽期間與教練或其他隊伍聯繫均屬違規行為。<br>
-Contestants are only allowed to contact their teammates during the contest. 
+Contestants are allowed to contact only their teammates during the contest. 
 Contestants shall not discuss with their coach and other teams.
 3. **網路使用限制 Limited accesses**<br>
 參賽者只能夠透過網路下載題目敘述、上傳解答程式碼、提問澄清疑點與查看計分板。
 使用網路存取其他資訊均屬違規。<br>
-Contestants shall only access the internet for downloading the problem 
+Contestants shall access the internet only for downloading the problem 
 description, submitting source codes, requesting problem clarification 
 and checking the scoreboard. Any other type of internet access is prohibited.
 4. **限用一台電腦 One computer**<br>
