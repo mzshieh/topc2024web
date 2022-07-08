@@ -118,7 +118,7 @@ End of registration: October 16, 2022
 2022 年 10 月 20 日寄發給教練<br>
 Team account information will be delivered to the coach by October 20, 2022.
 
-+ **測試時間：**<br>
++ **暫定測試時間：**<br>
 2022 年 10 月 21 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
 Tentative practice session: 12:30-23:30 on October 21, 2022 (GMT+8)<br>
 
