@@ -156,4 +156,4 @@ The result of a rejected submission is the first encountered error. We do **not*
 There is no penalty on compilation errors.
 
 ## Contact
-Contest Managers: mzshieh@icpc.tw
+Contest Managers: mzshieh@nycu.edu.tw
