@@ -1,7 +1,7 @@
 ## Latest News
 
 + 因 ICPC 官網系統障礙，報名延長至 2022 年 10 月 17 日。
-+ The registration deadline has been extened to Octobor 17, 2022.
++ The registration deadline has been extened to October 17, 2022.
 
 ## Overview
 
