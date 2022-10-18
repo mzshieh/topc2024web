@@ -1,7 +1,7 @@
 ## Latest News
 
-+ 因 ICPC 官網系統障礙，報名延長至 2022 年 10 月 17 日。
-+ The registration deadline has been extened to October 17, 2022.
++ 因 ICPC 官網系統障礙，報名延長至 2022 年 10 月 17 日。於 2022 年 10 月 20 日下午寄發帳號密碼等資訊給教練。
++ The registration deadline has been extened to October 17, 2022. We will deliver team account information on October 20, 2022.
 
 ## Overview
 
