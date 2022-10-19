@@ -1,6 +1,9 @@
 ## Latest News
 
-+ 因 ICPC 官網系統障礙，報名延長至 2022 年 10 月 17 日。於 2022 年 10 月 20 日下午寄發帳號密碼等資訊給教練。
++ 已寄發帳號密碼等資訊給教練與參賽者，如未收到，請與我們聯繫，電子郵件信箱：mzshieh@nycu.edu.tw
++ We have delivered the contest information to coaches and contestants. If you did not receive the contest information, please contact us via E-mail: mzshieh@nycu.edu.tw
+
++ 因 ICPC 官網系統障礙，報名延長至 2022 年 10 月 17 日。
 + The registration deadline has been extened to October 17, 2022. We will deliver team account information by October 20, 2022.
 
 ## Overview
