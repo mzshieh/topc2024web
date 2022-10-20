@@ -1,6 +1,36 @@
 ## Latest News
 
 ### 2022/10/20
+
++ 因近期 COVID-19 疫情造成許多選手因病隔離，本次競賽開放異地參賽，
+使用額外電腦登入裁判系統讀取題本、計分板、提問，透過通訊軟體、
+電子白板 (如 Discord、Google meet、Google Jamboard 等) 與隊友溝通。
+但仍禁止同時使用多台電腦同時撰寫程式碼及聯繫隊友之外的人。<br>
+如無法全隊在教練所指定的地點參賽，
+賽程中需對所有電腦之桌面進行錄影並錄下通訊程式的語音，
+必要時提供給主辦單位檢視。如屆時無法提供錄影錄音，將被取消資格。
+
++ Since many contestants got COVID-19 and are in home isolation, 
+we decided to allow teams to compete in separate spaces.
+A team may use extra computers to access the judge system for 
+problem statements, checking the scoreboard, and clarifications. 
+But, simultaneously programming on multiple computers is still prohibited. 
+Contestants may communicate with their teammates via communication software 
+and digital whiteboards like Discord, Google Meet, and Google Jamboard. 
+However, communicating with any person other than teammates is still prohibited. <br>
+IIf your team cannot compete in the same place designated by your coach, 
+then you have to record all screens of computers used and the communication 
+with teammates during the contest. In addition, you must record the video 
+with voice. We might ask you to provide the video clips for review when 
+necessary. If you cannot provide the demand video, it may result in 
+immediate disqualification. 
+
++ 錄影軟體可使用 [OBS Studio](https://obsproject.com/) 或是類似功能之軟體。
+
++ You may use [OBS Studio](https://obsproject.com/) or similar software 
+to record the video.
+
+### 2022/10/20
 + 已寄發帳號密碼等資訊給教練與參賽者，如未收到，請與我們聯繫，電子郵件信箱：mzshieh@nycu.edu.tw
 + We have delivered the contest information to coaches and contestants. If you did not receive the contest information, please contact us via E-mail: mzshieh@nycu.edu.tw
 
@@ -91,7 +121,7 @@ and checking the scoreboard. Any other type of internet access is prohibited.
 每個隊伍僅可使用一台電腦撰寫程式與上傳程式碼。
 於競賽期間除使用印表機列印題目與程式碼以及透過額外的螢幕閱讀題目之外，
 不得使用任何其他電子裝置。<br>
-Each team shall not simultaneously use more than one computer to write programs 
+Each team shall not  use more than one computer to write programs 
 during the contest. Contestant shall not use any other type of electronic 
 devices, except extra monitors and printers.
 5. **禁止惡意行為 No malicious actions**<br>
