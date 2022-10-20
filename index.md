@@ -9,7 +9,6 @@
 如無法全隊在教練所指定的地點參賽，
 賽程中需對所有電腦之桌面進行錄影並錄下通訊程式的語音，
 必要時提供給主辦單位檢視。如屆時無法提供錄影錄音，將被取消資格。
-
 + Since many contestants got COVID-19 and are in home isolation, 
 we decided to allow teams to compete in separate spaces.
 A team may use extra computers to access the judge system for 
@@ -26,7 +25,6 @@ necessary. If you cannot provide the demand video, it may result in
 immediate disqualification. 
 
 + 錄影軟體可使用 [OBS Studio](https://obsproject.com/) 或是類似功能之軟體。
-
 + You may use [OBS Studio](https://obsproject.com/) or similar software 
 to record the video.
 
