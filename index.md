@@ -17,7 +17,7 @@ But, simultaneously programming on multiple computers is still prohibited.
 Contestants may communicate with their teammates via communication software 
 and digital whiteboards like Discord, Google Meet, and Google Jamboard. 
 However, communicating with any person other than teammates is still prohibited. <br>
-IIf your team cannot compete in the same place designated by your coach, 
+If your team cannot compete in the same place designated by your coach, 
 then you have to record all screens of computers used and the communication 
 with teammates during the contest. In addition, you must record the video 
 with voice. We might ask you to provide the video clips for review when 
