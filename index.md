@@ -2,6 +2,21 @@
 
 ### 2022/10/22
 
+|ID   |time |team        |problem|
+|-----|-----|------------|-------|
+|s2599|11:37|SplayTreap  |H      |
+|s2617|11:39|felixtration|B      |
+|s2693|11:45|Auto_temp   |H      |
+|s2717|11:46|Auto_temp   |H      |
+|s2726|11:47|NYCU_2434   |G      |
+|s2789|11:52|NCUmix      |H      |
+|s2801|11:52|CYFNZ       |B      |
+|s2808|11:52|S@OAO!      |G      |
+|s2864|11:55|S@OAO!      |G      |
+|s2885|11:56|CYFNZ       |B      |
+
+### 2022/10/22
+
 + [Problem archive](https://drive.google.com/file/d/11o2tOppq4_3jtGoEY4ZATHz1ysVmnbt7/view?usp=sharing)
 
 ### 2022/10/21
