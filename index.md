@@ -1,6 +1,12 @@
 ## Latest News
 
 ### 2022/10/22
+### 2022/10/2
+
+#### 最終成績調整
+
++ 因賽中 11:30 之後有感受到裁判機有些時候會卡住。經賽後針對超時的提交再次檢查，下表的 submission 均變成 `Correct` 。我們對受到不幸事故影響的隊伍感到抱歉。
++ After 11:30, we feel that some judgehosts were not responding. We have rechecked all `Time-Limit` results, and the following submissions should be correct. We apologize to the teams affected by this unfortunate accident.
 
 |ID   |time |team        |problem|
 |-----|-----|------------|-------|
