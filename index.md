@@ -32,7 +32,7 @@ We used DOMjudge 8.1.0 and experienced some issues never happened before. We lis
 + During the contest, we added a case_sensitive flag to Problem B and soon found that we were unable to remove the flag without crashing the default compare script. Once the compare script crashes, all problems using that script would not allow judge. We tried our best to resolve the issue, and there is no compensation.
 + Some judgehosts sometimes could not report the judge results or just stucked. We manually rejudged those unresponsive submissions during the contest. Also, we have performed a rechecking on all `time-limit` submission. We have fixed all results related to this issue.
 + DOMjudge made several massive requests to the DB system and resulted in slowness or 50x errors. We have tried our best to resolve this issue during the contest. There is no compensation.  
-+ The built-in python3 run script has been changed to use pypy 3.6.9, which is not 3.8.10 or later. It impacts the efficiency of Problem H's sample solution and Problem H's time limit settings. However, there was no one reporting this issue in the problem developing stage, the practice session, and the contest. We believe that the impact is minor, and it is hard to find a remedy. There is no compensation.
++ The built-in python3 run script has been changed to use pypy 3.6.9, which is not Python 3.8.10 or later. It impacts the efficiency of Problem H's sample solution and Problem H's time limit settings. However, there was no one reporting this issue in the problem developing stage, the practice session, and the contest. We believe that the impact is minor, and it is hard to find a remedy. There is no compensation.
 
 ### 2022/10/22
 
