@@ -1,3 +1,8 @@
+## Final Standings
+
++ [Official standings](https://icpc.global/regionals/finder/Taiwan-Online-2022/standings)
++ [Scoreboard](image/2022-topc-final.png)
+
 ## Latest News
 
 ### 2022/10/24
