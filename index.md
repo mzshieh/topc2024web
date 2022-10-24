@@ -1,9 +1,8 @@
 ## Latest News
 
-### 2022/10/22
-### 2022/10/2
+### 2022/10/24
 
-#### 最終成績調整
+#### 重判報告 Rejudge report 
 
 + 因賽中 11:30 之後有感受到裁判機有些時候會卡住。經賽後針對超時的提交再次檢查，下表的 submission 均變成 `Correct` 。我們對受到不幸事故影響的隊伍感到抱歉。
 + After 11:30, we feel that some judgehosts were not responding. We have rechecked all `Time-Limit` results, and the following submissions should be correct. We apologize to the teams affected by this unfortunate accident.
@@ -20,6 +19,14 @@
 |s2808|11:52|S@OAO!      |G      |
 |s2864|11:55|S@OAO!      |G      |
 |s2885|11:56|CYFNZ       |B      |
+
+#### 裁判系統報告 (Judge System Report, Chinese only)
+
+本次使用 DOMjudge 8.1.0 ，在正賽體驗到一些先前沒有的問題，以下條列並說明主辦處置。
++ 開賽設定 Problem B 採用的 compare script 掛上 case_sensitive 的 argument ，想要調整細部確發現不能清空。default compare 吃到不存在的參數會 judge error，造成所有採用 default compare 的題目狀態切換成 not allow judge，在競賽初期造成影響，主辦單位只能盡速排除，無法提供補償。
++ 偶而會發生 judgehost 結果無法傳回或是卡死，因此賽中手動 rejudge 部份無傳回的 submssion ，事後 rechecking 所有 time-limit。僅更正因 judgehost 異常導致 time-limit 的測試結果。
++ 賽中發生數次 DB 大量存取導致系統卡頓或是 50x 系列錯誤，當下已盡量調整，不做補償。
++ 因 DOMjudge 內建 python3 執行環境改為 pypy (3.6.9)，非事前公佈的環境 3.8.10 or later，因而影響 Problem H 的標程執行效率與時限設定。此事命題階段、測試階段、正賽中均無人回報，公平性雖略受影響，但缺乏合適救濟手段，不予調整。
 
 ### 2022/10/22
 
