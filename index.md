@@ -2,6 +2,7 @@
 
 + [Official standings](https://icpc.global/regionals/finder/Taiwan-Online-2022/standings)
 + [Scoreboard](image/2022-topc-final.png)
++ [中文題解](https://hackmd.io/@rTbBGGVYR3e0Ee1fJry9fg/Hyat7r84j)
 
 ## Latest News
 
