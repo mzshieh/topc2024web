@@ -1,103 +1,8 @@
-## Final Standings
-
-+ [Official standings](https://icpc.global/regionals/finder/Taiwan-Online-2022/standings)
-+ [Scoreboard](image/2022-topc-final.png)
-+ [中文題解](https://hackmd.io/@rTbBGGVYR3e0Ee1fJry9fg/Hyat7r84j)
-
-## Latest News
-
-### 2022/10/25 
-
-關於 pypy (3.6.9)，非事前公佈的環境 3.8.10 or later，因而影響 Problem H 公平性一事，在此做出更詳細的說明。
-
-裁判環境使用的 pypy 7.3.1 (python 3.6.9) 比 Python 3.8.10 or later 在處理整數進位轉換上要「更快」，這主要發生在使用 Windows 平台開發的情境下，經測試在 Linux 與 Mac 下，效能上與裁判系統差距不大。
-
-影響公平性一事，來自於賽中開發用的電腦，Python執行的時間比在裁判機來的更久。或許可能會造成參賽者覺得在本機跑太慢，送上去會超時，因此延遲提交，有潛在性提升耗時的風險。但這一類風險，網路賽本就應該在測試時段，參賽者自行測試裁判環境來確認裁判機與自己的開發機之間的效能差距，以便在賽中正確評估。
-
-而本次不予補償的理由如下：
-1. 命題過程中，採用的環境與裁判環境一致，在評估執行時間限制上，並不受影響。即使換作 Python 3.8.10 or later 也不會造成既有的提交上來的程式碼，面對不公平的時限。
-2. 因語言規範版本差異造成 syntax error 賽中會視為 compilation error 並不會計入罰時，即使有也有編譯錯誤訊息，測試與正賽中也沒有人提出抗議，影響有限。其他類型的錯誤，與本次版本議題無關。
-3. 因隊伍評估執行時間造成的影響難有具體事證證明，因此無法補償。
-
-### 2022/10/24
-
-#### 重判報告 Rejudge report 
-
-+ 因賽中 11:30 之後有感受到裁判機有些時候會卡住。經賽後針對超時的提交再次檢查，下表的 submission 均變成 `Correct` 。我們對受到不幸事故影響的隊伍感到抱歉。
-+ After 11:30, we feel that some judgehosts were not responding. We have rechecked all `Time-Limit` results, and the following submissions should be correct. We apologize to the teams affected by this unfortunate accident.
-
-|ID   |time |team        |problem|
-|-----|-----|------------|-------|
-|s2599|11:37|SplayTreap  |H      |
-|s2617|11:39|felixtration|B      |
-|s2693|11:45|Auto_temp   |H      |
-|s2717|11:46|Auto_temp   |H      |
-|s2726|11:47|NYCU_2434   |G      |
-|s2789|11:52|NCUmix      |H      |
-|s2801|11:52|CYFNZ       |B      |
-|s2808|11:52|S@OAO!      |G      |
-|s2864|11:55|S@OAO!      |G      |
-|s2885|11:56|CYFNZ       |B      |
-
-#### 裁判系統報告 Judge System Report
-
-本次使用 DOMjudge 8.1.0 ，在正賽體驗到一些先前沒有的問題，以下條列並說明主辦處置。
-+ 開賽後設定 Problem B 採用的 compare script 掛上 case_sensitive 的 argument ，想要再調整回 case insentitive 卻發現不能清空造成錯誤。default compare 吃到不存在的參數會 judge error，造成所有採用 default compare 的題目狀態切換成 not allow judge，在競賽初期造成影響，主辦單位只能盡速排除，無法提供補償。
-+ 偶而會發生 judgehost 結果無法傳回或是卡死，因此賽中手動 rejudge 部份無傳回的 submssion ，事後 rechecking 所有 time-limit。僅更正因 judgehost 異常導致 time-limit 的測試結果。
-+ 賽中發生數次 DB 大量存取導致系統卡頓或是 50x 系列錯誤，當下已盡量調整，不做補償。
-+ 因 DOMjudge 內建 python3 執行環境改為 pypy (3.6.9)，非事前公佈的環境 3.8.10 or later，因而影響 Problem H 的標程執行效率與時限設定。此事命題階段、測試階段、正賽中均無人回報，公平性雖略受影響，但缺乏合適救濟手段，不予調整。
-
-We used DOMjudge 8.1.0 and experienced some issues never happened before. We list the issues as follows.
-+ During the contest, we added a case_sensitive flag to Problem B and soon found that we were unable to remove the flag without crashing the default compare script. Once the compare script crashes, all problems using that script would not allow judge. We tried our best to resolve the issue, and there is no compensation.
-+ Some judgehosts sometimes could not report the judge results or just stucked. We manually rejudged those unresponsive submissions during the contest. Also, we have performed a rechecking on all `time-limit` submission. We have fixed all results related to this issue.
-+ DOMjudge made several massive requests to the DB system and resulted in slowness or 50x errors. We have tried our best to resolve this issue during the contest. There is no compensation.  
-+ The built-in python3 run script has been changed to use pypy 3.6.9, which is not Python 3.8.10 or later. It impacts the efficiency of Problem H's sample solution and Problem H's time limit settings. However, there was no one reporting this issue in the problem developing stage, the practice session, and the contest. We believe that the impact is minor, and it is hard to find a remedy. There is no compensation.
-
-### 2022/10/22
-
-+ [Problem archive](https://drive.google.com/file/d/11o2tOppq4_3jtGoEY4ZATHz1ysVmnbt7/view?usp=sharing)
-
-### 2022/10/21
-
-+ 因近期 COVID-19 疫情造成許多選手因病隔離，本次競賽開放異地參賽，
-使用額外電腦登入裁判系統讀取題本、計分板、提問，透過通訊軟體、
-電子白板 (如 Discord、Google meet、Google Jamboard 等) 與隊友溝通。
-但仍禁止同時使用多台電腦同時撰寫程式碼及聯繫隊友之外的人。<br>
-如無法全隊在教練所指定的地點參賽，
-賽程中需對所有電腦之桌面進行錄影並錄下通訊程式的語音，
-必要時提供給主辦單位檢視。如屆時無法提供錄影錄音，將被取消資格。
-+ Since many contestants got COVID-19 and are in home isolation, 
-we decided to allow teams to compete in separate spaces.
-A team may use extra computers to access the judge system for 
-problem statements, checking the scoreboard, and clarifications. 
-But, simultaneously programming on multiple computers is still prohibited. 
-Contestants may communicate with their teammates via communication software 
-and digital whiteboards like Discord, Google Meet, and Google Jamboard. 
-However, communicating with any person other than teammates is still prohibited. <br>
-If your team cannot compete in the same place designated by your coach, 
-then you have to record all screens of computers used and the communication 
-with teammates during the contest. In addition, you must record the video 
-with voice. We might ask you to provide the video clips for review when 
-necessary. If you cannot provide the demand video, it may result in 
-immediate disqualification. 
-
-+ 錄影軟體可使用 [OBS Studio](https://obsproject.com/) 或是類似功能之軟體。
-+ You may use [OBS Studio](https://obsproject.com/) or similar software 
-to record the video.
-
-### 2022/10/20
-+ 已寄發帳號密碼等資訊給教練與參賽者，如未收到，請與我們聯繫，電子郵件信箱：mzshieh@nycu.edu.tw
-+ We have delivered the contest information to coaches and contestants. If you did not receive the contest information, please contact us via E-mail: mzshieh@nycu.edu.tw
-
-### 2022/10/16
-+ 因 ICPC 官網系統障礙，報名延長至 2022 年 10 月 17 日。
-+ The registration deadline has been extened to October 17, 2022. We will deliver team account information by October 20, 2022.
-
 ## Overview
 
 1. **日期 Date** <br>
-   2022 年 10 月 22 日 星期六 <br>
-   Saturday, October 22, 2022
+   2023 年 9 月 16 日 星期六 <br>
+   Saturday, September 16, 2023
 2. **地點 Place** <br>
    線上
    Online
@@ -106,20 +11,20 @@ to record the video.
    From 9:00 AM to 12:00 Noon (3 hours)
 4. **題組 Problem Set** <br>
    總題數至少七題，所有題目均為英文，三分之一可由 Python 3 解出。
-   賽後將提供中文題解資料。<br>
+   因 ICPC 晉級規則有重大變更，將至少有一個題目與相關規則有關。<br>
    There will be at least 7 problems to be solved. 
    The description of each problem will be available in English. 
    At least one third of them are solvable in Python 3. 
-   For each problem, we will provide solution sketches in Traditional Chinese.
+   Due to major changes in ICPC team selection, there will be at least one problem related to the rules.
 5. **報名 Registration** <br>
    請使用 ICPC 官方網頁註冊：<br>
-   [https://icpc.global/regionals/finder/Taiwan-Online-2022](https://icpc.global/regionals/finder/Taiwan-Online-2022)
+   [https://icpc.global/regionals/finder/Taiwan-Online-2024](https://icpc.global/regionals/finder/Taiwan-Online-2024)
    <br>
    Please visit the official website of the ICPC:<br>
-   [https://icpc.global/regionals/finder/Taiwan-Online-2022](https://icpc.global/regionals/finder/Taiwan-Online-2022)
+   [https://icpc.global/regionals/finder/Taiwan-Online-2024](https://icpc.global/regionals/finder/Taiwan-Online-2024)
 6. **報名期限 Registration Deadline**<br>
-   2022 年 10 月 16 日 星期日
-   Sunday, October 16, 2022
+   2023 年 9 月 7 日 星期四
+   Thursday, September 7, 2023
 
 ## Eligibility
 
@@ -207,19 +112,19 @@ solution.
 ## Important Dates
 
 + **註冊截止日期：**<br>
-2022 年 10 月 16 日<br>
-End of registration: October 16, 2022
+2023 年 9 月 7 日<br>
+End of registration: September 7, 2023
 + **寄發隊伍帳號密碼：**<br>
-2022 年 10 月 20 日寄發給教練<br>
-Team account information will be delivered to the coach by October 20, 2022.
+2023 年 9 月 14 日寄發給教練<br>
+Team account information will be delivered to the coach by September 14, 2023.
 
 + **暫定測試時間：**<br>
-2022 年 10 月 21 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
-Tentative practice session: 12:30-23:30 on October 21, 2022 (GMT+8)<br>
+2023 年 9 月 15 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
+Tentative practice session: 12:30-23:30 on September 15, 2023 (GMT+8)<br>
 
 + **競賽時間：**<br>
-2022 年 10 月 22 日 上午九點至中午十二點 (台灣時間)<br>
-Contest time: 9:00-12:00 on October 22, 2022 (GMT+8)
+2023 年 9 月 16 日 上午九點至中午十二點 (台灣時間)<br>
+Contest time: 9:00-12:00 on September 16, 2023 (GMT+8)
 
 ## Judge Environment
 
