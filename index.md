@@ -93,14 +93,14 @@ All malicious actions interfering the contest are prohibited.
 + **計分與排名 Scoring & Ranking** <br>
 隊伍以解題數量多者排名較前，解題數量相同時，以總消耗時間少者排名較前。
 答對的題目的消耗時間計算方式為比賽開始至解出題目所消耗的分鐘數。
-如解出前有答錯，每答錯一次需要另加 20 分鐘。
+如解出前有答錯，除編譯錯誤之外，每答錯一次需要另加 20 分鐘。
 總消耗時間為所有答對題目的消耗時間加總。未答對的題目不計消耗時間。<br>
 Teams are ranked according to the most problems solved. 
 Teams who solve the same number of problems are ranked by least total time. 
 The total time is the sum of the time consumed for each problem solved. 
 The time consumed for a solved problem is the time elapsed from the beginning 
 of the contest to the submittal of the accepted run plus 20 penalty minutes 
-for every rejected run for that problem regardless of submittal time. 
+for every rejected run for that problem that was not rejected due to Compilation Error. 
 There is no time consumed for a problem that is not solved.
 
 + **平手判定 Tie-Breaker**<br>
