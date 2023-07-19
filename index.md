@@ -11,11 +11,11 @@
    From 9:00 AM to 12:00 Noon (3 hours)
 4. **題組 Problem Set** <br>
    總題數至少七題，所有題目均為英文，三分之一可由 Python 3 解出。
-   因 ICPC 晉級規則有重大變更，將至少有一個題目與相關規則有關。<br>
+   因 ICPC [晉級規則](https://icpc.iisf.or.jp/asia-pacific/top/2023-24-cycle/)有重大變更，將至少有一個題目與相關規則有關。<br>
    There will be at least 7 problems to be solved. 
    The description of each problem will be available in English. 
    At least one third of them are solvable in Python 3. 
-   Due to major changes in ICPC team selection, there will be at least one problem related to the rules.
+   Due to major changes in ICPC team selection, there will be at least one problem related to the [rules](https://icpc.iisf.or.jp/asia-pacific/top/2023-24-cycle/).
 5. **報名 Registration** <br>
    請使用 ICPC 官方網頁註冊：<br>
    [https://icpc.global/regionals/finder/Taiwan-Online-2024](https://icpc.global/regionals/finder/Taiwan-Online-2024)
