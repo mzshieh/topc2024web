@@ -145,7 +145,7 @@ Ubuntu 20.04
 + C++: g++ 11.4.0
 + Java: OpenJDK 17.0.8.1
 + Python: 3.8.10
-+ Kotlin: 1.5.21 on JRE 17.0.8.1
++ Kotlin: 1.5.21 or later on JRE 17.0.8.1
 
 ### Flags 
 + C: `gcc -x c -Wall -O2 -static -pipe -o "$DEST" "$@" -lm`
