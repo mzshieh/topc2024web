@@ -1,3 +1,9 @@
+## Latest News
+
+### 2022/09/12
+
+We have updated the judge environment.
+
 ## Overview
 
 1. **日期 Date** <br>
@@ -132,18 +138,18 @@ Contest time: 9:00-12:00 on September 16, 2023 (GMT+8)
 AWS t2.small instance
 
 ### OS
-Ubuntu 20.04 or later
+Ubuntu 20.04
 
 ### Compiler/Runtime Environment/Interpreter
-+ C: gcc 9.3.0 or later
-+ C++: g++ 9.3.0 or later
-+ Java: OpenJDK 14.0.2 (JRE & JDK) or later
-+ Python: 3.8.10 or later
-+ Kotlin: 1.5.21 on JRE 14.0.2 or later
++ C: gcc 11.4.0
++ C++: g++ 11.4.0
++ Java: OpenJDK 17.0.8.1
++ Python: 3.8.10
++ Kotlin: 1.5.21 on JRE 17.0.8.1
 
-### Flags (Tentative)
+### Flags 
 + C: `gcc -x c -Wall -O2 -static -pipe -o "$DEST" "$@" -lm`
-+ C++: `g++ -x c++ -Wall -std=gnu++20 -O2 -static -pipe -o "$DEST" "$@"`
++ C++: `g++-11 -x c++ -std=gnu++20 -Wall -O2 -static -pipe -o "$DEST" "$@"`
 + Java: `java -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss${MEMSTACK}k -Xms${MEMLIMITJAVA}k -Xmx${MEMLIMITJAVA}k '$MAINCLASS' "$@"`
 + Kotlin: `kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialGC -J-Xss${MEMSTACK}k -J-Xms${MEMLIMITJAVA}k -J-Xmx${MEMLIMITJAVA}k '$MAINCLASS' "$@"`
 
