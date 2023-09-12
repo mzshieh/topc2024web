@@ -1,6 +1,6 @@
 ## Latest News
 
-### 2022/09/12
+### 2022/09/13
 
 We have updated the judge environment.
 
@@ -148,7 +148,7 @@ Ubuntu 20.04
 + Kotlin: 1.5.21 or later on JRE 17.0.8.1
 
 ### Flags 
-+ C: `gcc -x c -Wall -O2 -static -pipe -o "$DEST" "$@" -lm`
++ C: `gcc-11 -x c -Wall -O2 -static -pipe -o "$DEST" "$@" -lm`
 + C++: `g++-11 -x c++ -std=gnu++20 -Wall -O2 -static -pipe -o "$DEST" "$@"`
 + Java: `java -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss${MEMSTACK}k -Xms${MEMLIMITJAVA}k -Xmx${MEMLIMITJAVA}k '$MAINCLASS' "$@"`
 + Kotlin: `kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialGC -J-Xss${MEMSTACK}k -J-Xms${MEMLIMITJAVA}k -J-Xmx${MEMLIMITJAVA}k '$MAINCLASS' "$@"`
