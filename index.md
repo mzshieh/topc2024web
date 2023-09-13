@@ -2,7 +2,8 @@
 
 ### 2022/09/13
 
-We have updated the judge environment.
+- We have updated the judge environment.
+- We have delivered the team account information to the coaches and the contestants.
 
 ## Overview
 
