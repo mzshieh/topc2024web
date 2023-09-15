@@ -1,8 +1,26 @@
 ## Latest News
 
+### 2023/09/15
+
++ 如教練未安排監賽人，賽程中需對所有電腦桌面進行錄影並開發程式時的語音，
+必要時提供給主辦單位檢視。如屆時無法提供錄影錄音，將被取消資格。
++ If your coach cannot appoint a proctor, 
+then you have to record all screens of your computers during the contest.
+In addition, you must record the video with voice.
+We might ask you to provide the video clips for review when 
+necessary. If you cannot provide the demand video, it may result in 
+immediate disqualification. 
+
++ 錄影軟體可使用 [OBS Studio](https://obsproject.com/) 或是類似功能之軟體。
++ You may use [OBS Studio](https://obsproject.com/) or similar software 
+to record the video.
+
+
 ### 2022/09/13
 
+- 裁判系統資訊已更新。
 - We have updated the judge environment.
+- 裁判系統帳號密碼資訊已寄發給教練與隊員。
 - We have delivered the team account information to the coaches and the contestants.
 
 ## Overview
