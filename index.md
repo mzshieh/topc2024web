@@ -16,7 +16,7 @@ immediate disqualification.
 to record the video.
 
 
-### 2022/09/13
+### 2023/09/13
 
 - 裁判系統資訊已更新。
 - We have updated the judge environment.
