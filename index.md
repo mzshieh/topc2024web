@@ -2,7 +2,7 @@
 
 ### 2023/09/15
 
-+ 如教練無法安排監賽人，賽程中需對所有電腦桌面進行錄影並開發程式時的語音，
++ 如教練無法安排監賽人，賽程中需對所有電腦桌面連同開發程式時的語音進行錄影，
 必要時提供給主辦單位檢視。如屆時無法提供錄影錄音，將被取消資格。
 + If your coach cannot appoint a proctor, 
 then you have to record all screens of your computers during the contest.
