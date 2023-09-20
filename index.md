@@ -1,5 +1,9 @@
 ## Latest News
 
+### Final Standings
+
+![](image/2023-topc-result.png)
+
 ### 2023/09/15
 
 + 如教練無法安排監賽人，賽程中需對所有電腦桌面連同開發程式時的語音進行錄影，
