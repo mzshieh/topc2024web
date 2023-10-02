@@ -4,19 +4,19 @@
 
 + Visit [CodeForces Gym](https://codeforces.com/gym/104619) for upsolving
 + [Sample code](2023-topc-sample-code.zip)
-+ Enhanced test data
-  - [A](2023-topc-A.zip)
-  - [B](2023-topc-B.zip)
-  - [C](2023-topc-C.zip)
-  - [D](2023-topc-D.zip)
-  - [E](2023-topc-E.zip)
-  - [F](2023-topc-F.zip)
-  - [G](2023-topc-G.zip)
-  - [H](2023-topc-H.zip)
-  - [I](2023-topc-I.zip)
-  - [J](2023-topc-J.zip)
-  - [K](2023-topc-K.zip)
-  - [L](2023-topc-L.zip)
++ Enhanced test data:
+  [A](2023-topc-A.zip)
+  [B](2023-topc-B.zip)
+  [C](2023-topc-C.zip)
+  [D](2023-topc-D.zip)
+  [E](2023-topc-E.zip)
+  [F](2023-topc-F.zip)
+  [G](2023-topc-G.zip)
+  [H](2023-topc-H.zip)
+  [I](2023-topc-I.zip)
+  [J](2023-topc-J.zip)
+  [K](2023-topc-K.zip)
+  [L](2023-topc-L.zip)
 
 ### Final Standings
 
