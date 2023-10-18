@@ -17,6 +17,7 @@
   [J](2023-topc-J.zip)
   [K](2023-topc-K.zip)
   [L](2023-topc-L.zip)
++ [Solution sketch](https://hackmd.io/@rTbBGGVYR3e0Ee1fJry9fg/rkQXXoE1p)
 
 ### Final Standings
 
