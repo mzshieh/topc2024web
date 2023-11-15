@@ -2,6 +2,7 @@
 
 ### Contest Materials
 
++ [Problem Description](https://topc2023.icpc.tw/2023-TOPC.pdf)
 + Visit [CodeForces Gym](https://codeforces.com/gym/104619) for upsolving
 + [Sample code](2023-topc-sample-code.zip)
 + Enhanced test data:
