@@ -1,57 +1,14 @@
 ## Latest News
 
-### Contest Materials
+### 2024-03-06
 
-+ [Problem Description](https://topc2023.icpc.tw/2023-TOPC.pdf)
-+ Visit [CodeForces Gym](https://codeforces.com/gym/104619) for upsolving
-+ [Sample code](2023-topc-sample-code.zip)
-+ Enhanced test data:
-  [A](2023-topc-A.zip)
-  [B](2023-topc-B.zip)
-  [C](2023-topc-C.zip)
-  [D](2023-topc-D.zip)
-  [E](2023-topc-E.zip)
-  [F](2023-topc-F.zip)
-  [G](2023-topc-G.zip)
-  [H](2023-topc-H.zip)
-  [I](2023-topc-I.zip)
-  [J](2023-topc-J.zip)
-  [K](2023-topc-K.zip)
-  [L](2023-topc-L.zip)
-+ [Solution sketch](https://hackmd.io/@rTbBGGVYR3e0Ee1fJry9fg/rkQXXoE1p)
-
-### Final Standings
-
-![](image/2023-topc-result.png)
-
-### 2023/09/15
-
-+ 如教練無法安排監賽人，賽程中需對所有電腦桌面連同開發程式時的語音進行錄影，
-必要時提供給主辦單位檢視。如屆時無法提供錄影錄音，將被取消資格。
-+ If your coach cannot appoint a proctor, 
-then you have to record all screens of your computers during the contest.
-In addition, you must record the video with voice.
-We might ask you to provide the video clips for review when 
-necessary. If you cannot provide the demand video, it may result in 
-immediate disqualification. 
-
-+ 錄影軟體可使用 [OBS Studio](https://obsproject.com/) 或是類似功能之軟體。
-+ You may use [OBS Studio](https://obsproject.com/) or similar software 
-to record the video.
-
-
-### 2023/09/13
-
-- 裁判系統資訊已更新。
-- We have updated the judge environment.
-- 裁判系統帳號密碼資訊已寄發給教練與隊員。
-- We have delivered the team account information to the coaches and the contestants.
+The draft version of the website is uploaded.
 
 ## Overview
 
 1. **日期 Date** <br>
-   2023 年 9 月 16 日 星期六 <br>
-   Saturday, September 16, 2023
+   2024 年 9 月 7 日 星期六 <br>
+   Saturday, September 7, 2024
 2. **地點 Place** <br>
    線上
    Online
@@ -60,20 +17,18 @@ to record the video.
    From 9:00 AM to 12:00 Noon (3 hours)
 4. **題組 Problem Set** <br>
    總題數至少七題，所有題目均為英文，三分之一可由 Python 3 解出。
-   因 ICPC [區賽選拔規則](https://icpc2023.ntub.edu.tw/?page_id=78) 與 [晉級世界決賽規則](https://icpc.iisf.or.jp/asia-pacific/top/2023-24-cycle/)有重大變更，將至少有一個題目與相關規則有關。<br>
    There will be at least 7 problems to be solved. 
    The description of each problem will be available in English. 
    At least one third of them are solvable in Python 3. 
-   Due to major changes in ICPC team selection, there will be at least one problem related to the [Taoyuan regional team selection rule](https://icpc2023.ntub.edu.tw/?page_id=78) or the [Asia Pacific rules](https://icpc.iisf.or.jp/asia-pacific/top/2023-24-cycle/).
 6. **報名 Registration** <br>
    請使用 ICPC 官方網頁註冊：<br>
-   [https://icpc.global/regionals/finder/Taiwan-Online-2024](https://icpc.global/regionals/finder/Taiwan-Online-2024)
+   [https://icpc.global/regionals/finder/Taiwan-Online-2025](https://icpc.global/regionals/finder/Taiwan-Online-2025)
    <br>
    Please visit the official website of the ICPC:<br>
-   [https://icpc.global/regionals/finder/Taiwan-Online-2024](https://icpc.global/regionals/finder/Taiwan-Online-2024)
+   [https://icpc.global/regionals/finder/Taiwan-Online-2025](https://icpc.global/regionals/finder/Taiwan-Online-2025)
 7. **報名期限 Registration Deadline**<br>
-   2023 年 9 月 7 日 星期四
-   Thursday, September 7, 2023
+   2024 年 8 月 29 日 星期四
+   Thursday, August 7, 2024
 
 ## Eligibility
 
@@ -130,7 +85,7 @@ and checking the scoreboard. Any other type of internet access is prohibited.
 每個隊伍僅可使用一台電腦撰寫程式與上傳程式碼。
 於競賽期間除使用印表機列印題目與程式碼以及透過額外的螢幕閱讀題目之外，
 不得使用任何其他電子裝置。<br>
-Each team shall not  use more than one computer to write programs 
+Each team shall not use more than one computer to write programs 
 during the contest. Contestant shall not use any other type of electronic 
 devices, except extra monitors and printers.
 5. **禁止惡意行為 No malicious actions**<br>
@@ -161,44 +116,44 @@ solution.
 ## Important Dates
 
 + **註冊截止日期：**<br>
-2023 年 9 月 7 日<br>
-End of registration: September 7, 2023
+2024 年 8 月 29 日<br>
+End of registration: August 29, 2024
 + **寄發隊伍帳號密碼：**<br>
-2023 年 9 月 14 日寄發給教練<br>
-Team account information will be delivered to the coach by September 14, 2023.
+2024 年 9 月 5 日寄發給教練<br>
+Team account information will be delivered to the coach by September 5, 2024.
 
 + **暫定測試時間：**<br>
-2023 年 9 月 15 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
-Tentative practice session: 12:30-23:30 on September 15, 2023 (GMT+8)<br>
+2024 年 9 月 6 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
+Tentative practice session: 12:30-23:30 on September 6, 2024 (GMT+8)<br>
 
 + **競賽時間：**<br>
-2023 年 9 月 16 日 上午九點至中午十二點 (台灣時間)<br>
-Contest time: 9:00-12:00 on September 16, 2023 (GMT+8)
+2024 年 9 月 7 日 上午九點至中午十二點 (台灣時間)<br>
+Contest time: 9:00-12:00 on September 7, 2024 (GMT+8)
 
 ## Judge Environment
 
 ### Hardware
-AWS t2.small instance
+To be determined.
 
 ### OS
-Ubuntu 20.04
+To be determined.
 
 ### Compiler/Runtime Environment/Interpreter
-+ C: gcc 11.4.0
-+ C++: g++ 11.4.0
-+ Java: OpenJDK 17.0.8.1
-+ Python: 3.8.10
-+ Kotlin: 1.5.21 or later on JRE 17.0.8.1
++ C: To be determined.
++ C++: To be determined.
++ Java: To be determined.
++ Python: To be determined.
++ Kotlin: To be determined.
 
 ### Flags 
-+ C: `gcc-11 -x c -Wall -O2 -static -pipe -o "$DEST" "$@" -lm`
-+ C++: `g++-11 -x c++ -std=gnu++20 -Wall -O2 -static -pipe -o "$DEST" "$@"`
-+ Java: `java -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss${MEMSTACK}k -Xms${MEMLIMITJAVA}k -Xmx${MEMLIMITJAVA}k '$MAINCLASS' "$@"`
-+ Kotlin: `kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialGC -J-Xss${MEMSTACK}k -J-Xms${MEMLIMITJAVA}k -J-Xmx${MEMLIMITJAVA}k '$MAINCLASS' "$@"`
++ C: To be determined.
++ C++: To be determined.
++ Java: To be determined.
++ Kotlin: To be determined.
 
 ### Lazy Evaluation
 
-The result of a rejected submission is the first encountered error. We do **not** prioritize `timelimit`, `run-error`, `memory-limit`, `output-limit` and `no-output`. 
+To be determined.
 
 ### Penalty
 
