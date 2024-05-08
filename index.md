@@ -1,8 +1,4 @@
-## Latest News
-
-### 2024-03-06
-
-The draft version of the website is uploaded.
+# 2024 Taiwan Online Programming Contest
 
 ## Overview
 
