@@ -1,4 +1,4 @@
-# 2023 ICPC Asia Taiwan Online Programming Contest
+# 2023 Taiwan Online Programming Contest
 
 ## Latest News
 
