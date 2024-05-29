@@ -22,7 +22,7 @@ Rejected tasks will be returned to the author, who is then free to use them
 in other contests. 
 Authors of accepted tasks must maintain confidentiality until the contest.
 
-## Overview
+## Contest Overview
 
 1. **日期 Date** <br>
    2024 年 9 月 7 日 星期六 <br>
