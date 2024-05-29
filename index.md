@@ -1,5 +1,26 @@
 # 2024 Taiwan Online Programming Contest
 
+## Latest News
+
+### Call for Tasks
+
+2024 Taiwan Online Programming Contest requires 10-13 tasks. 
+You can submit a task in an archived file format (e.g., .zip, .7z) to 
+mzshieh@nycu.edu.tw by June 30, 2024.
+
+We expect each task submission to have
+- Task statement
+- Task solution description
+- Task solution program
+It is nice to have some test cases or ideas to generate the test cases. 
+You are welcome to submit them.
+
+The decision to use a submitted task will be made after the judges' review.
+This review may involve discussions between the judges and the task author. 
+Rejected tasks will be returned to the author, who is then free to use them 
+in other contests. 
+Authors of accepted tasks must maintain confidentiality until the contest.
+
 ## Overview
 
 1. **日期 Date** <br>
