@@ -12,6 +12,7 @@ We expect each task submission to have
 - Task statement
 - Task solution description
 - Task solution program
+
 It is nice to have some test cases or ideas to generate the test cases. 
 You are welcome to submit them.
 
