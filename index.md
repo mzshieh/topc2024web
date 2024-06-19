@@ -46,7 +46,7 @@ Authors of accepted tasks must maintain confidentiality until the contest.
    [https://icpc.global/regionals/finder/Taiwan-Online-2025](https://icpc.global/regionals/finder/Taiwan-Online-2025)
 7. **報名期限 Registration Deadline**<br>
    2024 年 8 月 29 日 星期四
-   Thursday, August 7, 2024
+   Thursday, August 29, 2024
 
 ## Eligibility
 
