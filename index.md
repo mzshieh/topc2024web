@@ -2,25 +2,18 @@
 
 ## Latest News
 
-### Call for Tasks
+### Team Selection Rule Updated
 
-2024 Taiwan Online Programming Contest requires 10-13 tasks. 
-You can submit a task in an archived file format (e.g., .zip, .7z) to 
-mzshieh@nycu.edu.tw by June 30, 2024.
+因應 [ICPC Asia Pacific Rule](https://icpc.iisf.or.jp/asia-pacific/top/2023-24-cycle/) 明文規定國內隊伍需透過預賽晉級之變革，2024 ICPC Taichung Regional Contest 修訂[隊伍選拔規則](https://hpc.asia.edu.tw/icpc2024/?page_id=78)，大多數的參賽隊伍將依據「ICPC Taiwan Online Programming Contest」提出的隊伍優先序錄取。
 
-We expect each task submission to have
-- Task statement
-- Task solution description
-- Task solution program
+#### Domestic Team Priority
 
-It is nice to have some test cases or ideas to generate the test cases. 
-You are welcome to submit them.
-
-The decision to use a submitted task will be made after the judges' review.
-This review may involve discussions between the judges and the task author. 
-Rejected tasks will be returned to the author, who is then free to use them 
-in other contests. 
-Authors of accepted tasks must maintain confidentiality until the contest.
+ICPC Taiwan Online Programming Contest 隊伍優先序:
++ 優先序一、取每校最優一隊，依ICPC Taiwan Online Programming Contest 名次排序，限定30隊。
++ 優先序二、「全國大專電腦軟體設計競賽」前40名，依名次排序。
++ 優先序三、CPE推薦至多10隊，由CPE提供錄取順序。
++ 優先序四、不具備前述優先資格之隊伍，依ICPC Taiwan Online Programming Contest名次排序。
+備註：各類優先錄取名單如無法在 ICPC 區賽 35 天前取得，則該年度暫停適用。
 
 ## Contest Overview
 
