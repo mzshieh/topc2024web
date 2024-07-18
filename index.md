@@ -8,7 +8,7 @@
 
 #### Domestic Team Priority
 
-ICPC Taiwan Online Programming Contest 隊伍優先序:
+ICPC Taiwan Online Programming Contest 隊伍優先序：
 + 優先序一、取每校最優一隊，依ICPC Taiwan Online Programming Contest 名次排序，限定30隊。
 + 優先序二、「全國大專電腦軟體設計競賽」前40名，依名次排序。
 + 優先序三、CPE推薦至多10隊，由CPE提供錄取順序。
