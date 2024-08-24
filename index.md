@@ -2,6 +2,10 @@
 
 ## Latest News
 
+### 2024/08/24
+
+We have updated the information about the contest environment. 
+
 ### Team Selection Rule Updated
 
 因應 [ICPC Asia Pacific Rule](https://icpc.iisf.or.jp/asia-pacific/top/2023-24-cycle/) 明文規定國內隊伍需透過預賽晉級之變革，2024 ICPC Taichung Regional Contest 修訂[隊伍選拔規則](https://hpc.asia.edu.tw/icpc2024/?page_id=78)，大多數的參賽隊伍將依據「ICPC Taiwan Online Programming Contest」提出的隊伍優先序錄取。
@@ -145,27 +149,27 @@ Contest time: 9:00-12:00 on September 7, 2024 (GMT+8)
 ## Judge Environment
 
 ### Hardware
-To be determined.
+
+AWS t2.small instance
 
 ### OS
-To be determined.
+Ubuntu 22.04 LTS
 
 ### Compiler/Runtime Environment/Interpreter
-+ C: To be determined.
-+ C++: To be determined.
-+ Java: To be determined.
-+ Python: To be determined.
-+ Kotlin: To be determined.
++ C/C++: GCC 11.4.0
++ Python: PyPy 7.3.9 (Python 3.8.13)
++ Java: OpenJDK 17.0.12
++ Kotlin: 1.7.21 on OpenJDK 17.0.12
 
 ### Flags 
-+ C: To be determined.
-+ C++: To be determined.
-+ Java: To be determined.
-+ Kotlin: To be determined.
++ C: -x c -Wall -O2 -std=gnu11 -static -pipe {source} -lm
++ C++: -x c++ -Wall -O2 -std=gnu++20 -static -pipe
++ Java: -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss65536k -Xms917504k -Xmx917504k
++ Kotlin: -Dfile.encoding=UTF-8 -J-XX:+UseSerialGC -J-Xss65536k -J-Xms917504k -J-Xmx917504k
 
 ### Lazy Evaluation
 
-To be determined.
+Enabled. The verdict of a rejected submission is the first encountered error.
 
 ### Penalty
 
