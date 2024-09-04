@@ -2,7 +2,7 @@
 
 ## Latest News
 
-### 2024/08/24
+### 2024/09/04
 
 We have updated the information about the contest environment. 
 
@@ -164,8 +164,8 @@ Ubuntu 22.04 LTS
 ### Flags 
 + C: -x c -Wall -O2 -std=gnu11 -static -pipe {source} -lm
 + C++: -x c++ -Wall -O2 -std=gnu++20 -static -pipe
-+ Java: -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss65536k -Xms917504k -Xmx917504k
-+ Kotlin: -Dfile.encoding=UTF-8 -J-XX:+UseSerialGC -J-Xss65536k -J-Xms917504k -J-Xmx917504k
++ Java: -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss65536k -Xms1966080k -Xmx1966080k
++ Kotlin: -Dfile.encoding=UTF-8 -J-XX:+UseSerialGC -J-Xss65536k -J-Xms1966080k -J-Xmx1966080k
 
 ### Lazy Evaluation
 
