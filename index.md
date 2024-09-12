@@ -8,7 +8,7 @@
 
 ### 2024/09/12
 
-A total of 77 teams have been disqualified from this contest. All these teams submitted suspicious codes during the contest. They can be categorized into three groups:
+A total of 77 teams have been disqualified from this contest. All these teams submitted suspicious codes during the contest. The disqualified teams can be categorized into three groups:
 
 1. Coaches were present during the competition. But upon being presented with evidence of the teams' cheating by the Contest Director, the coaches acknowledged the teams' misconduct and agreed that they should be disqualified.
 2. Teams were unable to provide the requested screen recordings by the deadline.
