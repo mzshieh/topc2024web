@@ -12,7 +12,7 @@ A total of 77 teams have been disqualified from this contest. All these teams su
 
 1. Coaches were present during the competition. But upon being presented with evidence of the teams' cheating by the Contest Director, the coaches acknowledged the teams' misconduct and agreed that they should be disqualified.
 2. Teams were unable to provide the requested screen recordings by the deadline.
-3. The submitted screen recordings were either less than three hours in length or showed clear signs of editing, indicating an attempt to conceal inappropriate behavior.
+3. The submitted screen recordings were either less than three hours in length or showed clear signs of editing, indicating attempts to conceal inappropriate behavior.
 
 ### 2024/09/08
 
