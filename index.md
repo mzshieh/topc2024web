@@ -2,6 +2,24 @@
 
 ## Latest News
 
+### Contest Materials
+
++ [Problem Description](2024-topc.pdf)
++ DOMjudge Archive Files: 
+    - [A](2024-topc-A.zip)
+    - [B](2024-topc-B.zip)
+    - [C](2024-topc-C.zip)
+    - [D](2024-topc-D.zip)
+    - [E](2024-topc-E.zip)
+    - [F](2024-topc-F.zip)
+    - [G](2024-topc-G.zip)
+    - [H](2024-topc-H.zip)
+    - [I](2024-topc-I.zip)
+    - [J](2024-topc-J.zip)
+    - [K](2024-topc-K.zip)
+    - [L](2024-topc-L.zip)
++ [Solution Sketch](https://hackmd.io/@rTbBGGVYR3e0Ee1fJry9fg/S1Djc825C)
+
 ### Final Standings
 
 ![](image/2024-topc-result.png)
