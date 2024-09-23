@@ -5,7 +5,7 @@
 ### Contest Materials
 
 + [Problem Description](2024-topc.pdf)
-+ DOMjudge Archive Files: 
++ Test cases, sample codes and checkers in DOMjudge Archive File Format:
     - [A](2024-topc-A.zip)
     - [B](2024-topc-B.zip)
     - [C](2024-topc-C.zip)
