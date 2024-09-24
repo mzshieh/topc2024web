@@ -18,6 +18,7 @@
     - [Just Round Down](2024-topc-J.zip)
     - [Kingdom's Development Plan](2024-topc-K.zip)
     - [Lexicopolis](2024-topc-L.zip)
++ [Sample Solution Codes](2024-topc-sample-solution.zip)
 + [Solution Sketch](https://hackmd.io/@rTbBGGVYR3e0Ee1fJry9fg/S1Djc825C)
 
 ### Final Standings
