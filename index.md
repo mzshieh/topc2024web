@@ -3,6 +3,7 @@
 ## Latest News
 
 #### Domestic Team Priority (Updated)
+依據 2024 年 10 月 10 日「臺灣程式競賽暨檢定學會第四屆第五次理監事會議」決議，修正「ICPC Taiwan Online Programming Contest 隊伍優先序」如下：
 
 ICPC Taiwan Online Programming Contest 隊伍優先序：
 + 優先序一、取每校最優一隊，依ICPC Taiwan Online Programming Contest 名次排序，限定30隊。
