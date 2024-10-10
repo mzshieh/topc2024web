@@ -2,6 +2,16 @@
 
 ## Latest News
 
+#### Domestic Team Priority (Updated)
+
+ICPC Taiwan Online Programming Contest 隊伍優先序：
++ 優先序一、取每校最優一隊，依ICPC Taiwan Online Programming Contest 名次排序，限定30隊。
++ 優先序二、「全國大專電腦軟體設計競賽」前40名，依名次排序。
++ 優先序三、CPE推薦至多10隊，由CPE提供錄取順序。
++ 優先序四、不具備前述優先資格之隊伍，依ICPC Taiwan Online Programming Contest名次排序。
+
+備註：各類優先錄取名單如無法在 ICPC 區賽 35 天前取得，則該年度暫停適用，倘遇天然災害等不可抗力因素致比賽改期則不在此限。
+
 ### Contest Materials
 
 + [Problem Description](2024-topc.pdf)
