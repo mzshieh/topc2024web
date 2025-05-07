@@ -4,7 +4,7 @@
 
 1. **日期 Date** <br>
    2025 年 9 月 20 日 星期六 <br>
-   Saturday, September 20, 2024
+   Saturday, September 20, 2025
 2. **地點 Place** <br>
    線上
    Online
