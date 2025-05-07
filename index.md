@@ -25,6 +25,11 @@
 7. **報名期限 Registration Deadline**<br>
    2025 年 9 月 11 日 星期四
    Thursday, September, 2025
+8. **報名費 Registration Fee** <br>
+   + 國內隊伍免費 <br>
+     Domestic teams: Free
+   + 國際隊伍 30 美金或 1000 新台幣 <br>
+     International teams: 30 USD or 1000 NTD
 
 ## Eligibility
 
