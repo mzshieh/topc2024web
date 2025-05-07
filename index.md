@@ -18,10 +18,10 @@
    At least one third of them are solvable in Python 3. 
 6. **報名 Registration** <br>
    請使用 ICPC 官方網頁註冊：<br>
-   [https://icpc.global/regionals/finder/Taiwan-Online-2025](https://icpc.global/regionals/finder/Taiwan-Online-2026)
+   [https://icpc.global/regionals/finder/Taiwan-Online-2026](https://icpc.global/regionals/finder/Taiwan-Online-2026)
    <br>
    Please visit the official website of the ICPC:<br>
-   [https://icpc.global/regionals/finder/Taiwan-Online-2025](https://icpc.global/regionals/finder/Taiwan-Online-2026)
+   [https://icpc.global/regionals/finder/Taiwan-Online-2026](https://icpc.global/regionals/finder/Taiwan-Online-2026)
 7. **報名期限 Registration Deadline**<br>
    2025 年 9 月 11 日 星期四
    Thursday, September, 2025
