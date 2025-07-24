@@ -28,8 +28,8 @@
 8. **報名費 Registration Fee** <br>
    + 國內隊伍免費 <br>
      Domestic teams: Free
-   + 國際隊伍 30 美金或 1000 新台幣 <br>
-     International teams: 30 USD or 1000 NTD
+   + 國際隊伍 1000 新台幣 <br>
+     International teams: 1000 NTD (About 30 US Dollars)
 
 ## Eligibility
 
