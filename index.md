@@ -1,5 +1,19 @@
 # 2025 Taiwan Online Programming Contest
 
+## Latest News
+
+### Domestic Team Priority (2025/09/16)
+
+依據 2025 年 9 月 16 日「臺灣程式競賽暨檢定學會第四屆第五次理監事會議」決議，修正「ICPC Taiwan Online Programming Contest 隊伍優先序」如下：
+
+ICPC Taiwan Online Programming Contest 隊伍優先序：
++ 優先序一、取每校最優一隊(主辦學校最優二隊)，依ICPC Taiwan Online Programming Contest 名次排序，限定30隊。
++ 優先序二、「全國大專電腦軟體設計競賽」前40名，依名次排序。
++ 優先序三、CPE推薦至多10隊，由CPE提供錄取順序。
++ 優先序四、不具備前述優先資格之隊伍，依ICPC Taiwan Online Programming Contest名次排序。
+
+備註：各類優先錄取名單如無法在 ICPC 區賽 34 天前取得，則該年度暫停適用，倘遇天然災害等不可抗力因素致比賽改期則不在此限。
+
 ## Contest Overview
 
 1. **日期 Date** <br>
@@ -29,7 +43,7 @@
    + 國內隊伍免費 <br>
      Domestic teams: Free
    + 國際隊伍 1000 新台幣 <br>
-     International teams: 1000 NTD (About 30 US Dollars)
+     International teams: 1000 NTD (About 34 US Dollars)
 
 ## Eligibility
 
@@ -138,7 +152,27 @@ Contest time: 9:00-12:00 on September 20, 2025 (GMT+8)
 
 ## Judge Environment
 
-To be determined.
+## Hardware
+
+AWS t2.small instance
+
+### OS
+Ubuntu 22.04 LTS
+
+### Compiler/Runtime Environment/Interpreter
++ C/C++: GCC 11.4.0
++ Python: PyPy 7.3.9 (Python 3.8.13)
++ Java: OpenJDK 17.0.12
++ Kotlin: 1.7.21 on OpenJDK 17.0.12
+
+### Lazy Evaluation and Parallel Judging
+
++ Lazy Evaluation: Enabled. The verdict for a rejected submission is determined by the first error encountered during the judging process.
++ Parallel Judging: Enabled. A single submission can be evaluated by multiple judgehosts simultaneously. This means that if the same code is submitted multiple times, the first error encountered for each submission might be different.
+
+### Penalty
+
+There is no penalty on compilation errors.
 
 ## Contact
 Contest Managers: mzshieh@nycu.edu.tw
