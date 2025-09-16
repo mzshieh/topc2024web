@@ -152,7 +152,7 @@ Contest time: 9:00-12:00 on September 20, 2025 (GMT+8)
 
 ## Judge Environment
 
-## Hardware
+### Hardware
 
 AWS t2.small instance
 
