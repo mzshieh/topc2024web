@@ -142,9 +142,9 @@ End of registration: September 11, 2025
 2025 年 9 月 18 日寄發給教練<br>
 Team account information will be delivered to the coach by September 18, 2025.
 
-+ **暫定測試時間：**<br>
++ **測試時間：**<br>
 2025 年 9 月 19 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
-Tentative practice session: 12:30-23:30 on September 19, 2025 (GMT+8)<br>
+Practice session: 12:30-23:30 on September 19, 2025 (GMT+8)<br>
 
 + **競賽時間：**<br>
 2025 年 9 月 20 日 上午九點至中午十二點 (台灣時間)<br>
