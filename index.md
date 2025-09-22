@@ -2,6 +2,12 @@
 
 ## Latest News
 
+### Contest Results and Materials
+
++ [Final Scoreboard](scoreboard)
++ The problemset is available in [CodeForces Gym](https://codeforces.com/gym/106084/).
++ Test cases and solution will be available soon.
+
 ### Domestic Team Priority (2025/09/16)
 
 依據 2025 年 9 月 16 日「臺灣程式競賽暨檢定學會第四屆第五次理監事會議」決議，修正「ICPC Taiwan Online Programming Contest 隊伍優先序」如下：
