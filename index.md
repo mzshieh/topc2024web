@@ -6,7 +6,7 @@
 
 + [Final Scoreboard](scoreboard)
 + The problemset is available in [CodeForces Gym](https://codeforces.com/gym/106084/).
-+ Test cases and solution will be available soon.
++ Test cases and solutions will be available soon.
 
 ### Server Issues during Competition
 
