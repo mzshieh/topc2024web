@@ -10,7 +10,7 @@
 
 ### Server Issues during Competition
 
-We're aware of the 504 Gateway Timeout errors that affected many participants at the start of the competition. We sincerely apologize for the poor user experience. An incident report will be provided soon.
+We're aware of the 504 Gateway Timeout errors that affected many participants at the start of the competition. We sincerely apologize for the poor user experience. An incident report can be found [here](2025_incident_report.pdf).
 
 ### Domestic Team Priority (2025/09/16)
 
