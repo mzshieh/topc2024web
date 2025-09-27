@@ -5,7 +5,8 @@
 ### Contest Results and Materials
 
 + [Final Scoreboard](scoreboard)
-+ The problemset is available in [CodeForces Gym](https://codeforces.com/gym/106084/).
++ [Problemset](topc2025-problemset.pdf)
++ Upsolving is available in [CodeForces Gym](https://codeforces.com/gym/106084/).
 + [中文題解](https://hackmd.io/@tmt514/Bk_lRqjill)
 + [Test cased and solutions](https://drive.google.com/file/d/19VMyiZZtgdOjsI134btBvPQ-5TM2inc7/view)
 
