@@ -1,6 +1,18 @@
-# 2026 Taiwan Online Programming Contest
+# 2025 Taiwan Online Programming Contest
 
 ## Latest News
+
+### Contest Results and Materials
+
++ [Final Scoreboard](scoreboard)
++ [Problemset](topc2025-problemset.pdf)
++ Upsolving is available in [CodeForces Gym](https://codeforces.com/gym/106084/).
++ [中文題解](https://hackmd.io/@tmt514/Bk_lRqjill)
++ [Test cased and solutions](https://drive.google.com/file/d/19VMyiZZtgdOjsI134btBvPQ-5TM2inc7/view)
+
+### Server Issues during Competition
+
+We're aware of the 504 Gateway Timeout errors that affected many participants at the start of the competition. We sincerely apologize for the poor user experience. An incident report can be found [here](2025_incident_report.pdf).
 
 ### Domestic Team Priority (2025/09/16)
 
@@ -17,8 +29,8 @@ ICPC Taiwan Online Programming Contest 隊伍優先序：
 ## Contest Overview
 
 1. **日期 Date** <br>
-   2026 年 9 月 19 日 星期六 <br>
-   Saturday, September 20, 2026
+   2025 年 9 月 20 日 星期六 <br>
+   Saturday, September 20, 2025
 2. **地點 Place** <br>
    線上
    Online
@@ -32,18 +44,18 @@ ICPC Taiwan Online Programming Contest 隊伍優先序：
    At least one third of them are solvable in Python 3. 
 6. **報名 Registration** <br>
    請使用 ICPC 官方網頁註冊：<br>
-   [https://icpc.global/regionals/finder/Taiwan-Online-2027](https://icpc.global/regionals/finder/Taiwan-Online-2027)
+   [https://icpc.global/regionals/finder/Taiwan-Online-2026](https://icpc.global/regionals/finder/Taiwan-Online-2026)
    <br>
    Please visit the official website of the ICPC:<br>
-   [https://icpc.global/regionals/finder/Taiwan-Online-2027](https://icpc.global/regionals/finder/Taiwan-Online-2027)
+   [https://icpc.global/regionals/finder/Taiwan-Online-2026](https://icpc.global/regionals/finder/Taiwan-Online-2026)
 7. **報名期限 Registration Deadline**<br>
-   2026 年 9 月 11 日 星期五
-   Friday, September, 2026
+   2025 年 9 月 11 日 星期四
+   Thursday, September, 2025
 8. **報名費 Registration Fee** <br>
    + 國內隊伍免費 <br>
      Domestic teams: Free
    + 國際隊伍 1000 新台幣 <br>
-     International teams: 1000 NTD (About 31 US Dollars)
+     International teams: 1000 NTD (About 34 US Dollars)
 
 ## Eligibility
 
@@ -136,19 +148,19 @@ solution.
 ## Important Dates
 
 + **註冊截止日期：**<br>
-2026 年 9 月 11 日<br>
-End of registration: September 11, 2026
+2025 年 9 月 11 日<br>
+End of registration: September 11, 2025
 + **寄發隊伍帳號密碼：**<br>
-2026 年 9 月 17 日寄發給教練<br>
-Team account information will be delivered to the coach by September 17, 2026.
+2025 年 9 月 18 日寄發給教練<br>
+Team account information will be delivered to the coach by September 18, 2025.
 
 + **測試時間：**<br>
-2026 年 9 月 18 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
-Practice session: 12:30-23:30 on September 18, 2026 (GMT+8)<br>
+2025 年 9 月 19 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
+Practice session: 12:30-23:30 on September 19, 2025 (GMT+8)<br>
 
 + **競賽時間：**<br>
-2026 年 9 月 19 日 上午九點至中午十二點 (台灣時間)<br>
-Contest time: 9:00-12:00 on September 19, 2026 (GMT+8)
+2025 年 9 月 20 日 上午九點至中午十二點 (台灣時間)<br>
+Contest time: 9:00-12:00 on September 20, 2025 (GMT+8)
 
 ## Judge Environment
 
@@ -157,15 +169,15 @@ Contest time: 9:00-12:00 on September 19, 2026 (GMT+8)
 AWS t2.small instance
 
 ### OS
-Ubuntu 22.04 LTS or later
+Ubuntu 22.04 LTS
 
 ### Compiler/Runtime Environment/Interpreter
-+ C/C++: GCC 11.4.0 or later
-+ Python: PyPy 7.3.9 (Python 3.8.13) or later
-+ Java: OpenJDK 17.0.12 or later
-+ Kotlin: 1.7.21 on OpenJDK 17.0.12 or later
++ C/C++: GCC 11.4.0
++ Python: PyPy 7.3.9 (Python 3.8.13)
++ Java: OpenJDK 17.0.12
++ Kotlin: 1.7.21 on OpenJDK 17.0.12
 
-### Flags (Tentative)
+### Flags
 + C: `-x c -Wall -O2 -std=gnu11 -static -pipe {source} -lm`
 + C++: `-x c++ -Wall -O2 -std=gnu++20 -static -pipe`
 + Java: `-Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss65536k -Xms1966080k -Xmx1966080k`
@@ -187,4 +199,4 @@ Contest Managers: mzshieh@nycu.edu.tw
 
 - [2023 TOPC](/past/2023/)
 - [2024 TOPC](/past/2024/)
-- [2025 TOPC](/past/2025/)
+
