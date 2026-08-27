@@ -18,7 +18,7 @@ ICPC Taiwan Online Programming Contest 隊伍優先序：
 
 1. **日期 Date** <br>
    2026 年 9 月 19 日 星期六 <br>
-   Saturday, September 20, 2026
+   Saturday, September 19, 2026
 2. **地點 Place** <br>
    線上
    Online
