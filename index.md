@@ -108,9 +108,8 @@ devices, except extra monitors and printers.
 不得做出任何意圖妨礙比賽進行及影響比賽公平性的惡意行為。<br>
 All malicious actions interfering the contest are prohibited.
 6. **監賽 Proctoring** <br>
-教練需指派至少一位人員於比賽期間全程監賽，或隊伍必須將所有使用到的螢幕進行全程錄影，並於賽後保留備查。若未能依規執行，將取消隊伍參賽資格。<br>
-The coach must assign at least one person to monitor the team throughout the contest, or the team must record all screens used during the contest in their entirety and retain the recordings for future reference. 
-Failure to comply will result in disqualification of the team.
+教練需指派至少一位無選手身份之人員於比賽期間全程監賽，或隊伍必須將所有使用到的螢幕進行全程錄影，並於賽後保留備查。若未能依規執行，將取消隊伍參賽資格。<br>
+The coach must assign at least one non-contestant person to monitor the contest for its entire duration, or the team must continuously record all screens used during the contest and retain the recordings for verification after the contest. Failure to comply will result in the team's disqualification.
 
 ## Scoring & Ranking
 
