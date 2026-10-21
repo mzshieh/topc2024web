@@ -1,6 +1,7 @@
 ## Teams promoted from PUPC
 
 - Ten teams will be selected from the Private University Programming Contest (PUPC) with a maximum of two teams per institution.
+- [2026 PUPC Standings](https://icpc.global/regionals/finder/AsiaTaiwanPUPC-2027/standings)
 - 10 teams are qualified in 2026-2027 cycle.
 
 | Place | Institution | Team |
@@ -19,6 +20,7 @@
 ## Teams promoted from TUPC
 
 - Ten teams will be selected from the Technology University Programming Contest (TUPC) with a maximum of two teams per institution.
+- [2026 TUPC Standings](https://icpc.global/regionals/finder/Asia-Taiwan-TUPC-2027/standings)
 - 10 teams are qualified in 2026-2027 cycle.
 
 | Place | Institution | Team |
@@ -35,6 +37,8 @@
 | 17 | National Taichung University of Science and Technology | NUTC\_HLC |
 
 ## Teams promoted from TOPC
+
+- [2026 TOPC Standings](https://icpc.global/regionals/finder/Taiwan-Online-2027/standings)
 
 The remaining teams will be selected based on the priority list submitted from the Taiwan Online Programming Contest (TOPC), with a maximum of ten teams per institution.
 
