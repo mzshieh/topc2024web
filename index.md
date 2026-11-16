@@ -2,6 +2,10 @@
 
 ## Latest News
 
+### Contest Material
+
+Please find the problem statement with hints, sample solution and test data [here](https://drive.google.com/drive/u/0/folders/1DLb4cgsyBdDZnNteBaLO_P3vbLAicgG6).
+
 ### Domestic Team Priority (2025/09/16)
 
 依據 2025 年 9 月 16 日「臺灣程式競賽暨檢定學會第四屆第五次理監事會議」決議，修正「ICPC Taiwan Online Programming Contest 隊伍優先序」如下：
